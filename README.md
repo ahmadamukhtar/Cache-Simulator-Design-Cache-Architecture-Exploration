@@ -1,7 +1,3 @@
-Here’s a clean, professional, and GitHub-ready **README.md introduction** based on your **Cache Simulator Design** project. It avoids report formatting and keeps the tone appropriate for a public code repository:
-
----
-
 # Cache Simulator in C
 
 This project implements a simplified **cache memory simulator** in C, designed to simulate cache hit/miss/eviction behavior based on a Valgrind memory trace. It was developed as a hands-on learning tool for exploring cache architecture and memory access behavior.
@@ -69,7 +65,3 @@ This project reinforced understanding of:
 
 **Author:** Ahmad Mukhtar
 **Institution:** NUST Chip Design Centre (NCDC), Islamabad
-
----
-
-Let me know if you want this in a `.md` file, or if you’d like help linking to example trace files or running instructions.
